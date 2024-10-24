@@ -1,0 +1,69 @@
+commit abfce9274aa5be736f4daafe09934199f4d609be
+Merge: 2254152 d095fa3
+Author: veektorf1 <wiktor.makowski@student.put.poznan.pl>
+Date:   Thu Oct 24 17:55:39 2024 +0200
+
+    commit readme.md po konflikcie
+
+commit 225415235c0bdf26171940c4e2791cda5a104b49
+Author: veektorf1 <wiktor.makowski@student.put.poznan.pl>
+Date:   Thu Oct 24 17:51:51 2024 +0200
+
+    aktualizacja README.md loaklnie
+
+commit d095fa33c457214bea3c6453f61188f034e4affa
+Author: veektorf1 <125961580+veektorf1@users.noreply.github.com>
+Date:   Thu Oct 24 17:50:56 2024 +0200
+
+    Update README.md zdalnie
+
+commit a1b3b5d8dd85a5db1fd75e7ee4a8fc565e017734
+Merge: a477715 5774178
+Author: veektorf1 <125961580+veektorf1@users.noreply.github.com>
+Date:   Thu Oct 24 17:47:37 2024 +0200
+
+    Merge pull request #1 from veektorf1/new-feature
+    
+    New feature title
+
+commit 5774178c1ee2c4a8a72ef81153a23aac17f27dd4
+Author: veektorf1 <wiktor.makowski@student.put.poznan.pl>
+Date:   Thu Oct 24 17:40:46 2024 +0200
+
+    Edycja pliku Program.java
+
+commit add11db8ae9a5e02db215b0ad6648cf8ee5a0c26
+Author: veektorf1 <wiktor.makowski@student.put.poznan.pl>
+Date:   Thu Oct 24 17:39:41 2024 +0200
+
+    edit README
+
+commit e3fe8c4f31ee09c081600035cc98999ba80c8d02
+Author: veektorf1 <wiktor.makowski@student.put.poznan.pl>
+Date:   Thu Oct 24 17:38:30 2024 +0200
+
+    Zmiana w Program.java i README
+
+commit a477715598e140a9a91e9fd536d2231096f8de10
+Author: veektorf1 <125961580+veektorf1@users.noreply.github.com>
+Date:   Thu Oct 24 17:32:40 2024 +0200
+
+    Aktualizacja README.md
+
+commit 78306a782835f6e9660f105d035345f09845b4d2
+Author: veektorf1 <wiktor.makowski@student.put.poznan.pl>
+Date:   Thu Oct 24 17:27:53 2024 +0200
+
+    Dodanie daty do README
+
+commit 6ae46353e8d7e9d753e2be753ad03bf830675298
+Author: veektorf1 <wiktor.makowski@student.put.poznan.pl>
+Date:   Thu Oct 24 17:21:35 2024 +0200
+
+    Utworzono plik Program.java
+
+commit 6431ead83496353b7070ea4339fde244a755119f
+Author: veektorf1 <wiktor.makowski@student.put.poznan.pl>
+Date:   Thu Oct 24 17:10:12 2024 +0200
+
+    Utworzenie readme.md
